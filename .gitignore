@@ -1,0 +1,13 @@
+.actiontrack/
+drafts/
+people.json
+people.example.json
+.env
+.env.*
+!.env.example
+specs/001-actiontrack/qa/
+samples/notes/
+samples/notes/scratch.md
+samples/notes/untitled.md
+__pycache__/
+*.egg-info/
